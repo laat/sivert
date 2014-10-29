@@ -4,6 +4,7 @@ FROM debian:testing
 RUN apt-get update && apt-get install -y nodejs npm
 RUN ln -s /usr/bin/nodejs /usr/bin/node
 
+RUN apt-get install -y git
 RUN npm install -g hubot coffee-script
 
 RUN mkdir /src
