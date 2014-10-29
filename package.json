@@ -6,19 +6,11 @@
   "description": "A robot for cohesive",
   "dependencies": {
     "hubot": "^2.9.0",
-    "hubot-diagnostics": "0.0.1",
-    "hubot-google-images": "^0.1.0",
-    "hubot-google-translate": "^0.1.0",
     "hubot-help": "^0.1.1",
-    "hubot-heroku-keepalive": "0.0.4",
+    "hubot-http-status": "*",
     "hubot-irc": "^0.2.7",
-    "hubot-maps": "0.0.0",
-    "hubot-pugme": "^0.1.0",
-    "hubot-redis-brain": "0.0.2",
-    "hubot-rules": "^0.1.0",
-    "hubot-scripts": "^2.5.16",
-    "hubot-shipit": "^0.1.1",
-    "hubot-youtube": "^0.1.2"
+    "hubot-url-title": "^1.2.0",
+    "hubot-plusplus": "1.0.x"
   },
   "engines": {
     "node": "0.10.x"
