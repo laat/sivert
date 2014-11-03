@@ -9,7 +9,7 @@
     "hubot-help": "^0.1.1",
     "hubot-http-status": "*",
     "hubot-irc": "^0.2.7",
-    "hubot-url-title": "^1.2.0",
+    "hubot-url-title": "git://github.com/hideyuki/hubot-url-title",
     "hubot-plusplus": "1.0.x"
   },
   "engines": {
